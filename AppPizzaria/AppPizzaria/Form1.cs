@@ -24,7 +24,9 @@ namespace AppPizzaria
 
             if(rdbModa.Checked)
             {
-
+                Pizza = rdbModa.Text;
+                ValorPizza = double.Parse(lblModa.Text);
+                Mensagem += ;
             }
         }
     }

@@ -1,0 +1,11 @@
+C:\Users\Usuario\AppPizzaria\AppPizzaria\AppPizzaria\bin\Debug\AppPizzaria.exe.config
+C:\Users\Usuario\AppPizzaria\AppPizzaria\AppPizzaria\bin\Debug\AppPizzaria.exe
+C:\Users\Usuario\AppPizzaria\AppPizzaria\AppPizzaria\bin\Debug\AppPizzaria.pdb
+C:\Users\Usuario\AppPizzaria\AppPizzaria\AppPizzaria\obj\Debug\AppPizzaria.csproj.AssemblyReference.cache
+C:\Users\Usuario\AppPizzaria\AppPizzaria\AppPizzaria\obj\Debug\AppPizzaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\AppPizzaria\AppPizzaria\AppPizzaria\obj\Debug\AppPizzaria.Form1.resources
+C:\Users\Usuario\AppPizzaria\AppPizzaria\AppPizzaria\obj\Debug\AppPizzaria.Properties.Resources.resources
+C:\Users\Usuario\AppPizzaria\AppPizzaria\AppPizzaria\obj\Debug\AppPizzaria.csproj.GenerateResource.cache
+C:\Users\Usuario\AppPizzaria\AppPizzaria\AppPizzaria\obj\Debug\AppPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\AppPizzaria\AppPizzaria\AppPizzaria\obj\Debug\AppPizzaria.exe
+C:\Users\Usuario\AppPizzaria\AppPizzaria\AppPizzaria\obj\Debug\AppPizzaria.pdb

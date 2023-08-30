@@ -119,7 +119,7 @@
             this.lblStrogonof.Name = "lblStrogonof";
             this.lblStrogonof.Size = new System.Drawing.Size(34, 13);
             this.lblStrogonof.TabIndex = 20;
-            this.lblStrogonof.Text = "22.75";
+            this.lblStrogonof.Text = "22,75";
             // 
             // lblQuatro
             // 
@@ -128,7 +128,7 @@
             this.lblQuatro.Name = "lblQuatro";
             this.lblQuatro.Size = new System.Drawing.Size(34, 13);
             this.lblQuatro.TabIndex = 19;
-            this.lblQuatro.Text = "15.50";
+            this.lblQuatro.Text = "15,50";
             // 
             // lblMussarela
             // 
@@ -137,7 +137,7 @@
             this.lblMussarela.Name = "lblMussarela";
             this.lblMussarela.Size = new System.Drawing.Size(34, 13);
             this.lblMussarela.TabIndex = 18;
-            this.lblMussarela.Text = "16.70";
+            this.lblMussarela.Text = "16,70";
             // 
             // lblCalabresa
             // 
@@ -146,7 +146,7 @@
             this.lblCalabresa.Name = "lblCalabresa";
             this.lblCalabresa.Size = new System.Drawing.Size(34, 13);
             this.lblCalabresa.TabIndex = 17;
-            this.lblCalabresa.Text = "20.50";
+            this.lblCalabresa.Text = "20,50";
             // 
             // lblBrocolis
             // 
@@ -155,7 +155,7 @@
             this.lblBrocolis.Name = "lblBrocolis";
             this.lblBrocolis.Size = new System.Drawing.Size(34, 13);
             this.lblBrocolis.TabIndex = 16;
-            this.lblBrocolis.Text = "12.00";
+            this.lblBrocolis.Text = "12,00";
             // 
             // lblBaiana
             // 
@@ -164,7 +164,7 @@
             this.lblBaiana.Name = "lblBaiana";
             this.lblBaiana.Size = new System.Drawing.Size(34, 13);
             this.lblBaiana.TabIndex = 15;
-            this.lblBaiana.Text = "16.10";
+            this.lblBaiana.Text = "16,10";
             // 
             // lblAtum
             // 
@@ -173,7 +173,7 @@
             this.lblAtum.Name = "lblAtum";
             this.lblAtum.Size = new System.Drawing.Size(34, 13);
             this.lblAtum.TabIndex = 14;
-            this.lblAtum.Text = "17.85";
+            this.lblAtum.Text = "17,85";
             // 
             // lblModa
             // 
@@ -182,7 +182,7 @@
             this.lblModa.Name = "lblModa";
             this.lblModa.Size = new System.Drawing.Size(34, 13);
             this.lblModa.TabIndex = 12;
-            this.lblModa.Text = "17.50";
+            this.lblModa.Text = "17,50";
             // 
             // rdbStrogonoff
             // 
@@ -300,7 +300,7 @@
             this.lblGuaranaLi.Name = "lblGuaranaLi";
             this.lblGuaranaLi.Size = new System.Drawing.Size(28, 13);
             this.lblGuaranaLi.TabIndex = 26;
-            this.lblGuaranaLi.Text = "3.50";
+            this.lblGuaranaLi.Text = "3,50";
             // 
             // ckbGuaranaLi
             // 
@@ -319,7 +319,7 @@
             this.lblGuaranaLa.Name = "lblGuaranaLa";
             this.lblGuaranaLa.Size = new System.Drawing.Size(28, 13);
             this.lblGuaranaLa.TabIndex = 25;
-            this.lblGuaranaLa.Text = "2.85";
+            this.lblGuaranaLa.Text = "2,85";
             // 
             // ckbGuaranaLa
             // 
@@ -338,7 +338,7 @@
             this.lblCocaLi.Name = "lblCocaLi";
             this.lblCocaLi.Size = new System.Drawing.Size(28, 13);
             this.lblCocaLi.TabIndex = 24;
-            this.lblCocaLi.Text = "5.10";
+            this.lblCocaLi.Text = "5,10";
             // 
             // lblCocaLa
             // 
@@ -347,7 +347,7 @@
             this.lblCocaLa.Name = "lblCocaLa";
             this.lblCocaLa.Size = new System.Drawing.Size(28, 13);
             this.lblCocaLa.TabIndex = 23;
-            this.lblCocaLa.Text = "3.50";
+            this.lblCocaLa.Text = "3,50";
             // 
             // ckbCocaLi
             // 
@@ -366,7 +366,7 @@
             this.lblCervejaL.Name = "lblCervejaL";
             this.lblCervejaL.Size = new System.Drawing.Size(28, 13);
             this.lblCervejaL.TabIndex = 22;
-            this.lblCervejaL.Text = "4.00";
+            this.lblCervejaL.Text = "4,00";
             // 
             // ckbCocaLa
             // 
@@ -385,7 +385,7 @@
             this.lblCervejaG.Name = "lblCervejaG";
             this.lblCervejaG.Size = new System.Drawing.Size(28, 13);
             this.lblCervejaG.TabIndex = 21;
-            this.lblCervejaG.Text = "5.50";
+            this.lblCervejaG.Text = "5,50";
             // 
             // ckbCervejaL
             // 
@@ -428,7 +428,7 @@
             this.lblCheddar.Name = "lblCheddar";
             this.lblCheddar.Size = new System.Drawing.Size(28, 13);
             this.lblCheddar.TabIndex = 23;
-            this.lblCheddar.Text = "4.65";
+            this.lblCheddar.Text = "4,65";
             // 
             // rdbCheddar
             // 
@@ -448,7 +448,7 @@
             this.lblCatupiry.Name = "lblCatupiry";
             this.lblCatupiry.Size = new System.Drawing.Size(28, 13);
             this.lblCatupiry.TabIndex = 22;
-            this.lblCatupiry.Text = "3.45";
+            this.lblCatupiry.Text = "3,45";
             // 
             // rdbCatupiry
             // 
@@ -500,7 +500,7 @@
             this.lblMaracujaJ.Name = "lblMaracujaJ";
             this.lblMaracujaJ.Size = new System.Drawing.Size(28, 13);
             this.lblMaracujaJ.TabIndex = 32;
-            this.lblMaracujaJ.Text = "6.50";
+            this.lblMaracujaJ.Text = "6,50";
             // 
             // MaracujaJ
             // 
@@ -519,7 +519,7 @@
             this.lblMaracujaC.Name = "lblMaracujaC";
             this.lblMaracujaC.Size = new System.Drawing.Size(28, 13);
             this.lblMaracujaC.TabIndex = 31;
-            this.lblMaracujaC.Text = "4.10";
+            this.lblMaracujaC.Text = "4,10";
             // 
             // ckbLaranjaJ
             // 
@@ -538,7 +538,7 @@
             this.lblLarangaJ.Name = "lblLarangaJ";
             this.lblLarangaJ.Size = new System.Drawing.Size(28, 13);
             this.lblLarangaJ.TabIndex = 30;
-            this.lblLarangaJ.Text = "6.30";
+            this.lblLarangaJ.Text = "6,30";
             // 
             // lblLaranjaC
             // 
@@ -547,7 +547,7 @@
             this.lblLaranjaC.Name = "lblLaranjaC";
             this.lblLaranjaC.Size = new System.Drawing.Size(28, 13);
             this.lblLaranjaC.TabIndex = 29;
-            this.lblLaranjaC.Text = "4.25";
+            this.lblLaranjaC.Text = "4,25";
             // 
             // ckbMaracujaC
             // 
@@ -566,7 +566,7 @@
             this.lblAbacaxiJ.Name = "lblAbacaxiJ";
             this.lblAbacaxiJ.Size = new System.Drawing.Size(28, 13);
             this.lblAbacaxiJ.TabIndex = 28;
-            this.lblAbacaxiJ.Text = "6.05";
+            this.lblAbacaxiJ.Text = "6,05";
             // 
             // ckbAbacaxiC
             // 
@@ -585,7 +585,7 @@
             this.lblAbacaxiC.Name = "lblAbacaxiC";
             this.lblAbacaxiC.Size = new System.Drawing.Size(28, 13);
             this.lblAbacaxiC.TabIndex = 27;
-            this.lblAbacaxiC.Text = "4.20";
+            this.lblAbacaxiC.Text = "4,20";
             // 
             // ckbAbacaxiJ
             // 
