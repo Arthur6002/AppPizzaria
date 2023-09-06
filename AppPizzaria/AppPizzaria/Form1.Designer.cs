@@ -66,10 +66,10 @@
             this.rdbSem = new System.Windows.Forms.RadioButton();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.lblMaracujaJ = new System.Windows.Forms.Label();
-            this.MaracujaJ = new System.Windows.Forms.CheckBox();
+            this.ckbMaracujaJ = new System.Windows.Forms.CheckBox();
             this.lblMaracujaC = new System.Windows.Forms.Label();
             this.ckbLaranjaJ = new System.Windows.Forms.CheckBox();
-            this.lblLarangaJ = new System.Windows.Forms.Label();
+            this.lblLaranjaJ = new System.Windows.Forms.Label();
             this.lblLaranjaC = new System.Windows.Forms.Label();
             this.ckbMaracujaC = new System.Windows.Forms.CheckBox();
             this.lblAbacaxiJ = new System.Windows.Forms.Label();
@@ -264,6 +264,7 @@
             // rdbModa
             // 
             this.rdbModa.AutoSize = true;
+            this.rdbModa.Cursor = System.Windows.Forms.Cursors.Default;
             this.rdbModa.Location = new System.Drawing.Point(16, 34);
             this.rdbModa.Name = "rdbModa";
             this.rdbModa.Size = new System.Drawing.Size(94, 17);
@@ -475,10 +476,10 @@
             // groupBox4
             // 
             this.groupBox4.Controls.Add(this.lblMaracujaJ);
-            this.groupBox4.Controls.Add(this.MaracujaJ);
+            this.groupBox4.Controls.Add(this.ckbMaracujaJ);
             this.groupBox4.Controls.Add(this.lblMaracujaC);
             this.groupBox4.Controls.Add(this.ckbLaranjaJ);
-            this.groupBox4.Controls.Add(this.lblLarangaJ);
+            this.groupBox4.Controls.Add(this.lblLaranjaJ);
             this.groupBox4.Controls.Add(this.lblLaranjaC);
             this.groupBox4.Controls.Add(this.ckbMaracujaC);
             this.groupBox4.Controls.Add(this.lblAbacaxiJ);
@@ -502,15 +503,15 @@
             this.lblMaracujaJ.TabIndex = 32;
             this.lblMaracujaJ.Text = "6,50";
             // 
-            // MaracujaJ
+            // ckbMaracujaJ
             // 
-            this.MaracujaJ.AutoSize = true;
-            this.MaracujaJ.Location = new System.Drawing.Point(24, 269);
-            this.MaracujaJ.Name = "MaracujaJ";
-            this.MaracujaJ.Size = new System.Drawing.Size(96, 17);
-            this.MaracujaJ.TabIndex = 11;
-            this.MaracujaJ.Text = "Maracujá Jarra";
-            this.MaracujaJ.UseVisualStyleBackColor = true;
+            this.ckbMaracujaJ.AutoSize = true;
+            this.ckbMaracujaJ.Location = new System.Drawing.Point(24, 269);
+            this.ckbMaracujaJ.Name = "ckbMaracujaJ";
+            this.ckbMaracujaJ.Size = new System.Drawing.Size(96, 17);
+            this.ckbMaracujaJ.TabIndex = 11;
+            this.ckbMaracujaJ.Text = "Maracujá Jarra";
+            this.ckbMaracujaJ.UseVisualStyleBackColor = true;
             // 
             // lblMaracujaC
             // 
@@ -531,14 +532,14 @@
             this.ckbLaranjaJ.Text = "Laranja Jarra";
             this.ckbLaranjaJ.UseVisualStyleBackColor = true;
             // 
-            // lblLarangaJ
+            // lblLaranjaJ
             // 
-            this.lblLarangaJ.AutoSize = true;
-            this.lblLarangaJ.Location = new System.Drawing.Point(266, 174);
-            this.lblLarangaJ.Name = "lblLarangaJ";
-            this.lblLarangaJ.Size = new System.Drawing.Size(28, 13);
-            this.lblLarangaJ.TabIndex = 30;
-            this.lblLarangaJ.Text = "6,30";
+            this.lblLaranjaJ.AutoSize = true;
+            this.lblLaranjaJ.Location = new System.Drawing.Point(266, 174);
+            this.lblLaranjaJ.Name = "lblLaranjaJ";
+            this.lblLaranjaJ.Size = new System.Drawing.Size(28, 13);
+            this.lblLaranjaJ.TabIndex = 30;
+            this.lblLaranjaJ.Text = "6,30";
             // 
             // lblLaranjaC
             // 
@@ -625,6 +626,7 @@
             this.btnLimpar.TabIndex = 5;
             this.btnLimpar.Text = "Limpar";
             this.btnLimpar.UseVisualStyleBackColor = true;
+            this.btnLimpar.Click += new System.EventHandler(this.btnLimpar_Click);
             // 
             // txtCliente
             // 
@@ -703,7 +705,7 @@
         private System.Windows.Forms.RadioButton rdbCheddar;
         private System.Windows.Forms.RadioButton rdbCatupiry;
         private System.Windows.Forms.RadioButton rdbSem;
-        private System.Windows.Forms.CheckBox MaracujaJ;
+        private System.Windows.Forms.CheckBox ckbMaracujaJ;
         private System.Windows.Forms.CheckBox ckbLaranjaJ;
         private System.Windows.Forms.CheckBox ckbMaracujaC;
         private System.Windows.Forms.CheckBox ckbAbacaxiC;
@@ -719,7 +721,7 @@
         private System.Windows.Forms.Label lblCatupiry;
         private System.Windows.Forms.Label lblMaracujaJ;
         private System.Windows.Forms.Label lblMaracujaC;
-        private System.Windows.Forms.Label lblLarangaJ;
+        private System.Windows.Forms.Label lblLaranjaJ;
         private System.Windows.Forms.Label lblLaranjaC;
         private System.Windows.Forms.Label lblAbacaxiJ;
         private System.Windows.Forms.Label lblAbacaxiC;
